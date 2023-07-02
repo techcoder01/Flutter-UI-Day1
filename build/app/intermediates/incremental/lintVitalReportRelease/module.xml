@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="C:\Users\Tech Coder\Downloads\Flutter-20230627T162017Z-001\Flutter\Projects\Ui 30 Days\day1\android\app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.3.0"
+    buildFolder="C:\Users\Tech Coder\Downloads\Flutter-20230627T162017Z-001\Flutter\Projects\Ui 30 Days\day1\build\app"
+    bootClassPath="C:\Users\Tech Coder\Downloads\commandlinetools-win-8092744_latest\platforms\android-33\android.jar;C:\Users\Tech Coder\Downloads\commandlinetools-win-8092744_latest\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
